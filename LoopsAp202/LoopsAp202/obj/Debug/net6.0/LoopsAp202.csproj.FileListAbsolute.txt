@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\bin\Debug\net6.0\LoopsAp202.exe
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\bin\Debug\net6.0\LoopsAp202.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\bin\Debug\net6.0\LoopsAp202.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\bin\Debug\net6.0\LoopsAp202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\bin\Debug\net6.0\LoopsAp202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\refint\LoopsAp202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\LoopsAp202.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\LoopsAp202\LoopsAp202\obj\Debug\net6.0\ref\LoopsAp202.dll
