@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\bin\Debug\net6.0\SearchingAndSortingAlgoAB202.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\bin\Debug\net6.0\SearchingAndSortingAlgoAB202.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\bin\Debug\net6.0\SearchingAndSortingAlgoAB202.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\bin\Debug\net6.0\SearchingAndSortingAlgoAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\bin\Debug\net6.0\SearchingAndSortingAlgoAB202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\refint\SearchingAndSortingAlgoAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\SearchingAndSortingAlgoAB202.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SearchingAndSortingAlgoAB202\SearchingAndSortingAlgoAB202\obj\Debug\net6.0\ref\SearchingAndSortingAlgoAB202.dll
