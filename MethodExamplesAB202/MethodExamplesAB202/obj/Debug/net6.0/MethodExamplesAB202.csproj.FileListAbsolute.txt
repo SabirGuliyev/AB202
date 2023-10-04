@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\bin\Debug\net6.0\MethodExamplesAB202.exe
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\bin\Debug\net6.0\MethodExamplesAB202.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\bin\Debug\net6.0\MethodExamplesAB202.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\bin\Debug\net6.0\MethodExamplesAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\bin\Debug\net6.0\MethodExamplesAB202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\refint\MethodExamplesAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\MethodExamplesAB202.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\MethodExamplesAB202\MethodExamplesAB202\obj\Debug\net6.0\ref\MethodExamplesAB202.dll
