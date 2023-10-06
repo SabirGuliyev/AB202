@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\bin\Debug\net6.0\ClassInheritence.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\refint\ClassInheritence.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ClassInheritence.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ClassInheritence\ClassInheritence\obj\Debug\net6.0\ref\ClassInheritence.dll
