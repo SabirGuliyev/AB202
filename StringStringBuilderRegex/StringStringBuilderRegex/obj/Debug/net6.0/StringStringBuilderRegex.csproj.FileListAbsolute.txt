@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\bin\Debug\net6.0\StringStringBuilderRegex.exe
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\bin\Debug\net6.0\StringStringBuilderRegex.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\bin\Debug\net6.0\StringStringBuilderRegex.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\bin\Debug\net6.0\StringStringBuilderRegex.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\bin\Debug\net6.0\StringStringBuilderRegex.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\refint\StringStringBuilderRegex.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\StringStringBuilderRegex.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StringStringBuilderRegex\StringStringBuilderRegex\obj\Debug\net6.0\ref\StringStringBuilderRegex.dll
