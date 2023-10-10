@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32526.322
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiersRecordTupleEncapsulation", "AccessModifiersRecordTupleEncapsulation\AccessModifiersRecordTupleEncapsulation.csproj", "{8B031E63-4622-4EE8-A69E-52280AFACEBA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B031E63-4622-4EE8-A69E-52280AFACEBA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B031E63-4622-4EE8-A69E-52280AFACEBA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B031E63-4622-4EE8-A69E-52280AFACEBA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B031E63-4622-4EE8-A69E-52280AFACEBA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {361FC290-47C7-49CC-99F9-31320B87CD28}
+	EndGlobalSection
+EndGlobal
