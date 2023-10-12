@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\bin\Debug\net6.0\AbstractSealedVirtual.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\bin\Debug\net6.0\AbstractSealedVirtual.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\bin\Debug\net6.0\AbstractSealedVirtual.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\bin\Debug\net6.0\AbstractSealedVirtual.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\bin\Debug\net6.0\AbstractSealedVirtual.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\refint\AbstractSealedVirtual.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\AbstractSealedVirtual.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractSealedVirtual\AbstractSealedVirtual\obj\Debug\net6.0\ref\AbstractSealedVirtual.dll
