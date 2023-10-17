@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\bin\Debug\net6.0\NullableStructIndexerEnum.exe
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\bin\Debug\net6.0\NullableStructIndexerEnum.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\bin\Debug\net6.0\NullableStructIndexerEnum.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\bin\Debug\net6.0\NullableStructIndexerEnum.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\bin\Debug\net6.0\NullableStructIndexerEnum.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\refint\NullableStructIndexerEnum.dll
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\NullableStructIndexerEnum.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\NullableStructIndexerEnum\NullableStructIndexerEnum\obj\Debug\net6.0\ref\NullableStructIndexerEnum.dll
