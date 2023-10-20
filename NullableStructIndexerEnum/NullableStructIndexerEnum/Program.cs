@@ -144,6 +144,10 @@ namespace NullableStructIndexerEnum
             //nums.AddRange();
             //nums.RemoveRange();
 
+            CustomList<int> list=new CustomList<int>(1,2,3,4,5);
+
+            CustomList<string> list2 = new CustomList<string>("Salam", "Shalom", "Hello");
+
 
             #endregion
 

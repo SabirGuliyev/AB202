@@ -6,5 +6,5 @@ build_property.ProjectTypeGuids =
 build_property.InvariantGlobalization = 
 build_property.PlatformNeutralAssembly = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = NullableStructIndexerEnum
-build_property.ProjectDir = C:\Users\sabir\Desktop\AB202\NullableStructIndexerEnum\NullableStructIndexerEnum\
+build_property.RootNamespace = GenericTypesCollections
+build_property.ProjectDir = C:\Users\sabir\OneDrive\Рабочий стол\GenericTypesCollections\GenericTypesCollections\

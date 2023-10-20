@@ -6,12 +6,12 @@ using System.Threading.Tasks;
 
 namespace NullableStructIndexerEnum.Models
 {
-    internal class ListInt
+    internal class CustomList<T>
     {
-        int[] _arr;
+        T[] _arr;
 
         public int Count { get { return _arr.Length; } }
-        public int this[int index] 
+        public T this[int index] 
         { 
             get
             {
@@ -32,24 +32,24 @@ namespace NullableStructIndexerEnum.Models
                
             }
         }
-        public ListInt()
+        public CustomList()
         {
-            _arr = new int[0];
+            _arr = new T[0];
         }
-        public ListInt(int length)
+        public CustomList(int length)
         {
-            _arr= new int[length];
+            _arr= new T[length];
         }
 
-        public ListInt(params int[] nums)
+        public CustomList(params T[] nums)
         {
             _arr=nums;
         }
 
-        public void Add(int num)
+        public void Add(T item)
         {
             Array.Resize(ref _arr, _arr.Length + 1);
-            _arr[_arr.Length - 1] = num;
+            _arr[_arr.Length - 1] = item;
         }
         
 
