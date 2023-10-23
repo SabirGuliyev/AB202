@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\net6.0\DelegateAnonymousMethod.exe
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\net6.0\DelegateAnonymousMethod.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\net6.0\DelegateAnonymousMethod.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\net6.0\DelegateAnonymousMethod.dll
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\bin\Debug\net6.0\DelegateAnonymousMethod.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.dll
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\refint\DelegateAnonymousMethod.dll
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\DelegateAnonymousMethod.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateAnonymousMethod\DelegateAnonymousMethod\obj\Debug\net6.0\ref\DelegateAnonymousMethod.dll
