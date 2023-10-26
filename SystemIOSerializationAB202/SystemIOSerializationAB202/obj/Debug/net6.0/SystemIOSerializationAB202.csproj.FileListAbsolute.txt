@@ -1,0 +1,17 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\bin\Debug\net6.0\SystemIOSerializationAB202.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\bin\Debug\net6.0\SystemIOSerializationAB202.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\bin\Debug\net6.0\SystemIOSerializationAB202.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\bin\Debug\net6.0\SystemIOSerializationAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\bin\Debug\net6.0\SystemIOSerializationAB202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\refint\SystemIOSerializationAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\ref\SystemIOSerializationAB202.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SystemIOSerializationAB202\SystemIOSerializationAB202\obj\Debug\net6.0\SystemIOSerializationAB202.csproj.CopyComplete

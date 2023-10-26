@@ -1,0 +1,15 @@
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\bin\Debug\net6.0\SolidExamples.exe
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\bin\Debug\net6.0\SolidExamples.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\bin\Debug\net6.0\SolidExamples.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\bin\Debug\net6.0\SolidExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\bin\Debug\net6.0\SolidExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.csproj.AssemblyReference.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\refint\SolidExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\SolidExamples.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\SolidExamples\SolidExamples\obj\Debug\net6.0\ref\SolidExamples.dll
