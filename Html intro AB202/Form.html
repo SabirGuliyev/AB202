@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+
+    <form>
+
+        <label for="name">Name</label>
+        <input id="name" type="text" placeholder="Name" required minlength="3" maxlength="25"
+          pattern="^[A-Za-z]{3,25}$">
+        <br>
+        <label for="surname">Surname</label>
+        <input id="surname" type="text" value="Surname">
+        <br>
+        <label for="email">Email</label>
+        <input id="email" type="email" value="sabir@gmail.com" disabled>
+        <br>
+        <label for="pass">Password</label>
+        <input id="pass" type="password">
+        <br>
+        <label for="female">Female</label>
+        <input id="female" type="radio" name="gender">
+        <label for="male">Male</label>
+        <input id="male" type="radio" name="gender">
+        <br>
+
+        <!-- <label for="c#">C#</label>
+        <input id="c#" type="checkbox">
+        <br> -->
+        <!-- <label for="sql">SQL</label>
+        <input id="sql" type="checkbox">
+        <br>
+        <label for="js">Js</label>
+        <input id="js" type="checkbox">
+        <br> -->
+        <!-- <input type="tel" pattern="[0-9]{3}[1-9]{5}"> -->
+        <!-- <label for="birth">Birthdate</label>
+        <input id="birth" type="date">
+        <br> -->
+        <!-- <input type="file" accept="image/*" multiple> -->
+        <br>
+
+        <!-- <input type="number" min="0" max="100"> -->
+        <!-- <input type="hidden" value="sabir29"> -->
+        <!-- <label for="report">Shikayet ve teklifler</label>
+        <br>
+        <textarea name="" id="report" cols="30" rows="10"></textarea>
+       -->
+
+       <label for="cars">Favorite car</label>
+       <select name="" id="cars" >
+        <optgroup label="Audi">
+            <option value="1">Sari</option>
+            <option value="2">Qirmizi</option>
+            <option value="3">Qara</option>
+        </optgroup>
+
+        <optgroup label="BMW">
+            <option value="1">Violet</option>
+            <option value="2">Qirmizi</option>
+            <option value="3">Qara</option>
+        </optgroup>
+       </select>
+        <br>
+        <!-- <input type="submit" value="Daxil et"> -->
+        <button type="button">Sumbit</button>
+    </form>
+
+</body>
+
+</html>
