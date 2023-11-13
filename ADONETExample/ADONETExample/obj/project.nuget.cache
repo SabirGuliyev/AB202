@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jY5n1l3de2gXKP9PbOnGY1i+gno2b7b+PwRKQ10X1IqV37QHFb+GgZ2GMgqI0GHMZ+bVWJd9qqmmmYshk8OtOg==",
+  "dgSpecHash": "uF+Stnu9wOmAjlt+XFOhPnAJmcgFxXfVtol7Mr9I207UxprbYU/DhFhzeoE/SSkNMinbNidSNWqA9bc5h/nxCw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sabir\\OneDrive\\Рабочий стол\\ADONETExample\\ADONETExample\\ADONETExample.csproj",
+  "projectFilePath": "C:\\Users\\sabir\\Desktop\\AB202\\ADONETExample\\ADONETExample\\ADONETExample.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sabir\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\sabir\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

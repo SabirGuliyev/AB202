@@ -1,3 +1,40 @@
+var row=document.querySelector(".row")
+
+var inName=document.getElementsByClassName("band-name")[0]
+var inCountry=document.querySelector(".band-country");
+var inImg=document.querySelector(".band-img");
+
+var btn=document.querySelector(".band-btn")
+
+// btn.onclick=function(){
+
+// }
+
+btn.addEventListener("click",function(e){
+    e.preventDefault()
+
+    var band={
+        name:inName.value,
+        country:inCountry.value,
+        imgSrc:inImg.value 
+    }
+
+    row.innerHTML+=`
+    <div class="card col-3" style="width: 18rem;">
+        <img src="${band.imgSrc}"
+            class="card-img-top" alt="${band.name}">
+        <div class="card-body">
+            <h5 class="card-title">Name: ${band.name}</h5>
+            <h6>Country: ${band.country}</h6>
+
+        </div>
+    </div>
+
+    `
+
+})
+
+
 
 const bands=[
 
@@ -33,7 +70,7 @@ const bands=[
 
 
 
-var row=document.querySelector(".row")
+
 
 
 for (let i = 0; i < bands.length; i++) {
