@@ -1,0 +1,10 @@
+﻿
+
+
+@*<p>@TempData["Name"]</p>*@
+
+
+  @foreach (var student in ViewData["Name"] as List<Student>)
+    {
+        <li>@student.Name @student.Surname </li>
+    }
