@@ -1,4 +1,6 @@
-﻿namespace ProniaAB202.Models
+﻿using System.ComponentModel.DataAnnotations.Schema;
+
+namespace ProniaAB202.Models
 {
     public class Slide
     {
@@ -8,5 +10,7 @@
         public string Description { get; set; }
         public string Image { get; set; }
         public int Order { get; set; }
+        [NotMapped]
+        public IFormFile Photo { get; set; }
     }
 }
