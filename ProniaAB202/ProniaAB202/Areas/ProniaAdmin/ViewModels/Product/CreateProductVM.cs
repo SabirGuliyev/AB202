@@ -13,5 +13,9 @@ namespace ProniaAB202.Areas.ProniaAdmin.ViewModels
 
         public List<int> TagIds { get; set; }
 
+        public IFormFile MainPhoto { get; set; }
+        public IFormFile HoverPhoto { get; set; }
+        public List<IFormFile>? Photos { get; set; }
+
     }
 }

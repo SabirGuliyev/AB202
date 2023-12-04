@@ -2,6 +2,7 @@
 using Microsoft.EntityFrameworkCore;
 using ProniaAB202.DAL;
 using ProniaAB202.Models;
+using ProniaAB202.ViewModels;
 
 namespace ProniaAB202.Controllers
 {
@@ -24,13 +25,26 @@ namespace ProniaAB202.Controllers
         {
             if (id<=0) return BadRequest();
 
-            Product product =await _context.Products.Include(p=>p.Category).FirstOrDefaultAsync(p => p.Id == id);
-
-            //_context.Products.Where(p => p.CategoryId == product.CategoryId);
-            
+            Product product =await _context.Products
+                .Include(p=>p.Category)
+                .Include(p=>p.ProductImages)
+                .Include(p => p.ProductTags)
+                .ThenInclude(pt=>pt.Tag)
+                .FirstOrDefaultAsync(p => p.Id == id);
             if (product is null) return NotFound();
+
+            DetailVM detailVM = new DetailVM
+            {
+                Product = product,
+                RelatedProducts = await _context.Products
+                .Where(p => p.CategoryId == product.CategoryId && p.Id != product.Id)
+                .Take(12)
+                .Include(p => p.ProductImages.Where(pi => pi.IsPrimary != null))
+                .ToListAsync()
+            };
+
            
-            return View(product);
+            return View(detailVM);
         }
     }
 }
