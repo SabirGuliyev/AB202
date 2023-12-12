@@ -1,14 +1,17 @@
-﻿using Microsoft.AspNetCore.Mvc;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using ProniaAB202.Areas.ProniaAdmin.ViewModels;
 using ProniaAB202.DAL;
 using ProniaAB202.Models;
+using ProniaAB202.Utilities.Enums;
 using ProniaAB202.Utilities.Extensions;
 using System.Collections.Generic;
 
 namespace ProniaAB202.Areas.ProniaAdmin.Controllers
 {
     [Area("ProniaAdmin")]
+   
     public class ProductController : Controller
     {
         private readonly AppDbContext _context;
@@ -19,6 +22,7 @@ namespace ProniaAB202.Areas.ProniaAdmin.Controllers
             _context = context;
             _env = env;
         }
+        [Authorize(Roles = "Admin,Moderator")]
         public async Task<IActionResult> Index()
         {
             List<Product> products = await _context.Products
@@ -29,7 +33,7 @@ namespace ProniaAB202.Areas.ProniaAdmin.Controllers
                 .ToListAsync();
             return View(products);
         }
-
+        [Authorize(Roles = "Admin,Moderator")]
         public async Task<IActionResult> Create()
         {
             ViewBag.Categories = await _context.Categories.ToListAsync();
@@ -166,7 +170,7 @@ namespace ProniaAB202.Areas.ProniaAdmin.Controllers
 
 
         }
-
+        [Authorize(Roles = "Admin,Moderator")]
         public async Task<IActionResult> Update(int id)
         {
             if (id <= 0) return BadRequest();
@@ -362,7 +366,7 @@ namespace ProniaAB202.Areas.ProniaAdmin.Controllers
             return RedirectToAction(nameof(Index));
 
         }
-
+        [Authorize(Roles = "Admin")]
         public async Task<IActionResult> Delete(int id)
         {
             if (id <= 0) return BadRequest();
